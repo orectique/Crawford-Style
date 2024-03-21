@@ -1,6 +1,4 @@
-# The Crawford School of Public Policy Style Manual
-
-This is the style manual for the Crawford School of Public Policy at the Australian National University. It is a work in progress and is intended to be a living document that is updated as required. Feel free to make pull requests and raise issues.
+This is the (student maintained) style manual for the Crawford School of Public Policy at the Australian National University. It is a work in progress and is intended to be a living document that is updated as required. Feel free to make pull requests and raise issues.
 
 The style manual can be found under the [resources page no the Crawford School website](https://crawford.anu.edu.au/sites/default/files/uploads/crawford01_cap_anu_edu_au/2018-11/crawfordstyleguide_2018_online.pdf).
 
