@@ -6,6 +6,9 @@ The style manual can be found under the [resources page on the Crawford School w
 ***Review papers and books might not get formatted perfectly due to the way many publishers present metadata.***
 
 [Click me](https://github.com/orectique/Crawford-Style/blob/main/crawford-style-austGov-authDate.csl) to download the file - you will have to click the "Download Raw File" button. Double clicking the downloaded file should open it in Zotero. If it doesn't, open Zotero, go to Preferences, Cite, Styles, and click the + button to add the file.
-![image](https://github.com/orectique/Crawford-Style/assets/49713741/eb5bde21-f22e-4527-848d-899c9ab1dd9f)
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/orectique/Crawford-Style/assets/49713741/eb5bde21-f22e-4527-848d-899c9ab1dd9f">
+</p>
 
 Alternatively, if you have the Zotero browser extension installed, [clicking me](https://raw.githubusercontent.com/orectique/Crawford-Style/main/crawford-style-austGov-authDate.csl) will open a raw file in your browser. Zotero will then ask you if you want to istall the style.
