@@ -11,4 +11,4 @@ The style manual can be found under the [resources page on the Crawford School w
   <img width="460" height="300" src="https://github.com/orectique/Crawford-Style/assets/49713741/eb5bde21-f22e-4527-848d-899c9ab1dd9f">
 </p>
 
-Alternatively, if you have the Zotero browser extension installed, [clicking me](https://raw.githubusercontent.com/orectique/Crawford-Style/main/crawford-style-austGov-authDate.csl) will open a raw file in your browser. Zotero will then ask you if you want to istall the style.
+Alternatively, if you have the Zotero browser extension installed, [clicking me](https://raw.githubusercontent.com/orectique/Crawford-Style/main/crawford-style-austGov-authDate.csl) will open a raw file in your browser. Zotero will then seek authorization to install the style.
